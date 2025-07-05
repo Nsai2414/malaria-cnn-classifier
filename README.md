@@ -28,6 +28,13 @@ This project uses a Convolutional Neural Network (CNN) built with TensorFlow to 
 ## 📁 File
 
 - `malaria_cnn_model.ipynb`: Full notebook with code, training, and results
+- ## 📈 Training Metrics
+
+### Accuracy
+![Model Accuracy](accuracy_plot.png)
+
+### Loss
+![Model Loss](loss_plot.png)
 
 ## 🚀 Future Plans
 
