@@ -45,3 +45,4 @@ This project uses a Convolutional Neural Network (CNN) built with TensorFlow to 
 ## 🙋 About Me
 
 I'm an MSc Computing graduate actively looking for entry-level Data Science or ML roles in the UK with Skilled Worker visa sponsorship. 
+Last updated: April 2026 – Reviewing and improving the project
