@@ -1,4 +1,16 @@
-# 🦠 Malaria Cell Image Classifier
+# Malaria Cell Classification using CNN
+
+This project uses Convolutional Neural Networks (CNN) to classify malaria-infected cells from image data.
+
+## Results
+- Achieved over 90% accuracy
+- Built using Python and TensorFlow
+
+## Skills Demonstrated
+- Data preprocessing
+- Machine Learning
+- Python programming
+- # 🦠 Malaria Cell Image Classifier
 
 This project uses a Convolutional Neural Network (CNN) built with TensorFlow to detect malaria-infected red blood cells from microscopic images.
 
